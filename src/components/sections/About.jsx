@@ -3,7 +3,7 @@ import AzizPhoto from '../../assets/images/aziz.png'
 import Resume from '../../assets/resume/Aziz-Ur-Rehman-CV.pdf'
 
 const SKILLS = [
-'React.js',
+'Next.js',
 'JavaScript',
 'Tailwind CSS',
 'WordPress',
@@ -51,17 +51,17 @@ return ( <section
         </span>
 
         <h2 className="text-4xl lg:text-5xl font-bold text-white mt-3">
-          Frontend Developer &
+          Full-Stack Developer &
           <span className="text-orange-500">
-            {' '}React Specialist
+            {' '}Next.js Specialist
           </span>
         </h2>
 
         <p className="text-gray-400 leading-relaxed mt-6">
-          I am a Frontend Web Developer passionate about building
+          I am a Full-Stack Web Developer passionate about building
           modern, responsive, and user-friendly websites. My focus
           is creating fast, clean, and engaging web experiences
-          using React, JavaScript, and Tailwind CSS.
+          using Next.js, React, JavaScript, and Tailwind CSS.
         </p>
 
         <p className="text-gray-400 leading-relaxed mt-4">

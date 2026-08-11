@@ -46,7 +46,7 @@ export default function Hero() {
             {/* Skills Tags */}
             <div className="flex gap-3 mt-5 flex-wrap">
               <span className="px-3 py-1 text-sm bg-orange-500/10 text-orange-400 rounded-full border border-orange-500/20">
-                React.js
+                Next.js
               </span>
 
               <span className="px-3 py-1 text-sm bg-orange-500/10 text-orange-400 rounded-full border border-orange-500/20">
@@ -64,10 +64,10 @@ export default function Hero() {
                 <span className="bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
                   <Typewriter
                     words={[
-                      "Front-End Developer",
-                      "React.JS Developer",
-                      "Web Developer",
+                      "Full-Stack Web Developer",
+                      "Next.js Developer",
                       "MERN Stack Developer",
+                      "PHP Web Developer",
                     ]}
                     loop={0}
                     cursor
@@ -83,7 +83,7 @@ export default function Hero() {
             {/* Description */}
             <p className="mt-6 text-gray-400 text-lg leading-relaxed max-w-xl">
               I build modern, responsive, and user-friendly web applications
-              using React, JavaScript, Tailwind CSS, and modern frontend
+              using Next.js, React, JavaScript, Tailwind CSS, and modern frameworks and
               technologies.
             </p>
 
@@ -161,7 +161,7 @@ export default function Hero() {
               {/* Top Badge */}
               <div className="absolute top-8 -right-4 bg-[#1a1a1a] border border-orange-500/30 px-4 py-2 rounded-xl shadow-lg z-20">
                 <span className="text-orange-500 font-semibold text-sm">
-                  React Developer
+                  Next.js Developer
                 </span>
               </div>
 

@@ -11,13 +11,13 @@ FaDatabase,
 const SERVICES = [
 {
 icon: FaCode,
-title: 'Frontend Development',
-desc: 'Responsive and modern websites built using HTML, CSS, JavaScript and Tailwind CSS.',
+title: 'Full-Stack Development',
+desc: 'Responsive and modern websites built using Next.js, React, JavaScript and Tailwind CSS.',
 },
 {
 icon: FaReact,
-title: 'React Development',
-desc: 'Fast, scalable and interactive React applications with reusable components.',
+title: 'Next.js Development',
+desc: 'Fast, scalable and interactive Next.js applications with reusable components.',
 },
 {
 icon: FaWordpress,

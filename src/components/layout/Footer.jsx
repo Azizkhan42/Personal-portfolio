@@ -28,8 +28,7 @@ return ( <footer className="bg-[#0d0d0d] border-t border-white/10"> <div classNa
       {/* Tagline */}
       <p className="text-gray-400 mt-4 max-w-2xl leading-relaxed">
         Building modern, responsive, and user-friendly web applications
-        using React, JavaScript, Tailwind CSS, and modern frontend
-        technologies.
+        using  Next.js, React, JavaScript, and Tailwind CSS.
       </p>
 
       {/* Navigation */}

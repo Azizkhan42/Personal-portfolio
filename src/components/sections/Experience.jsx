@@ -10,17 +10,17 @@ const EXPERIENCES = [
   },
   {
     year: '2024 - Present',
-    title: 'Frontend Web Development',
+    title: 'Full-Stack Web Development',
     company: 'Self Learning & Freelance Projects',
     description:
-      'Building responsive websites and web applications using HTML, CSS, JavaScript, React.js, and Tailwind CSS.',
+      'Building responsive websites and web applications using Next.js, React, JavaScript, and Tailwind CSS.',
   },
   {
     year: '2025 - Present',
-    title: 'React.js Development',
+    title: 'Next.js Development',
     company: 'Personal & Academic Projects',
     description:
-      'Developing modern React applications using reusable components, hooks, API integration, and responsive UI design.',
+      'Developing modern Next.js applications using reusable components, hooks, API integration, and responsive UI design.',
   },
 ]
 
