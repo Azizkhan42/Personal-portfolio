@@ -4,6 +4,7 @@ import { useInView } from "../../hooks/useInView";
 import Project1 from "../../assets/images/project1.png";
 import Project2 from "../../assets/images/project2.png";
 import Project3 from "../../assets/images/project3.png";
+import Project4 from "../../assets/images/project4.png";
 
 const FILTERS = ["All", "React", "PHP", "Full Stack"];
 
@@ -36,7 +37,7 @@ const PROJECTS = [
     id: 4,
     title: "Portfolio Website",
     category: "React",
-    image: Project1,
+    image: Project4,
     technologies: "React • Tailwind CSS",
     link: "https://azizurrehman-web.vercel.app/",
   },
