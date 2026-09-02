@@ -44,7 +44,7 @@ const PROJECTS = [
   },
   {
     id: 5,
-    title: "GitHub Finder",
+    title: "Event Management System",
     category: "PHP",
     image: Project5,
     technologies: "PHP • MS-SQL Server • JavaScript",
