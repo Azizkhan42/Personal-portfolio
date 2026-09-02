@@ -10,6 +10,7 @@ import Portfolio from "./components/sections/Portfolio";
 import Contact from "./components/sections/Contact";
 
 import ScrollToTop from "./components/ui/ScrollToTop";
+import WhatsAppButton from "./components/ui/WhatsAppButton";
 
 export default function App() {
   return (
@@ -33,6 +34,7 @@ export default function App() {
       </main>
       <Footer />
       <ScrollToTop />
+      <WhatsAppButton />
     </>
   );
 }
